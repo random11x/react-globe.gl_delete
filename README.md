@@ -58,7 +58,7 @@ A React component to represent data visualization layers on a 3-dimensional glob
 * [Satellites](https://random11x.github.io/react-globe.gl/example/satellites/index.html) ([source](https://github.com/random11x/react-globe.gl/blob/master/example/satellites/index.html))
 * [Submarine Cables](https://random11x.github.io/react-globe.gl/example/submarine-cables/index.html) ([source](https://github.com/random11x/react-globe.gl/blob/master/example/submarine-cables/index.html))
 * [Moon Landing Sites](https://random11x.github.io/react-globe.gl/example/moon-landing-sites/index.html) ([source](https://github.com/random11x/react-globe.gl/blob/master/example/moon-landing-sites/index.html))
-* [Moon Landing Sites](https://random11x.github.io/react-globe.gl/example/one-piece/index.html) ([source](https://github.com/random11x/react-globe.gl/blob/master/example/one-piece/index.html))
+* [The World from One Piece](https://random11x.github.io/react-globe.gl/example/one-piece/index.html) ([source](https://github.com/random11x/react-globe.gl/blob/master/example/one-piece/index.html))
 
 ## Quick start
 
